@@ -48,6 +48,8 @@ A curated list of awesome off-chain projects, resources, tools and more.
 
 ### Layer-2
 - [Immutable X](https://www.immutable.com)
+- [Celer Network](https://www.celer.network)
+- [Geo Protocol](https://geoprotocol.io)
 
 ### Crosschain Lending
 - [Abracadabra](https://abracadabra.money)
