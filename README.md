@@ -59,6 +59,8 @@
 - [FUNToken](https://funtoken.io/)
 - [VIBE](https://www.vibehub.io/)
 - [HeroArena](https://heroarena.app/)
+- [PhalaWorld](phala.world)
+-
 
 ### Crosschain Bridge
 - [Darwinia Network](https://darwinia.network/)
